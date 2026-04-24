@@ -46,15 +46,6 @@ Estoy desarrollando un **Sistema de Información Empresarial** con **Python/Djan
 
 ---
 
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gngalindo-10&show_icons=true&theme=github-dark&hide_border=true" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gngalindo-10&layout=compact&theme=github-dark&hide_border=true" alt="Top Languages" height="150"/>
-</div>
-
----
-
 ## 🏆 Logros y Certificaciones
 
 - **Curso de Aplicación del Marco de Trabajo Scrum** - SENA (2025)
@@ -85,7 +76,5 @@ Estoy desarrollando un **Sistema de Información Empresarial** con **Python/Djan
 <div align="center">
 
 **¡Gracias por visitar mi perfil!** 
-
-![Visitor Count](https://profile-counter.glitch.me/gngalindo-10/count.svg)
 
 </div>
