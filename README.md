@@ -16,13 +16,14 @@ Actualmente me encuentro en proceso de formación en el **SENA**, donde estoy de
 
 <div align="center">
 
-- 🔧 **Lenguajes de Programación**: Java, Python, PHP y JavaScript
-- 🌐 **Desarrollo Web**: Backend y Frontend (aplicaciones full stack)
-- 💾 **Bases de Datos**: MySQL (relacionales) y NoSQL (no relacionales)
-- 🛠️ **Frameworks**: Laravel (PHP), Spring Boot (Java), Django (Python)
-- 📦 **Metodologías Ágiles**: Scrum
+ 🔧 **Lenguajes de Programación**: Java, Python, PHP y JavaScript
+ 🌐 **Desarrollo Web**: Backend y Frontend (aplicaciones full stack)
+ 💾 **Bases de Datos**: MySQL (relacionales) y NoSQL (no relacionales)
+ 🛠️ **Frameworks**: Laravel (PHP), Spring Boot (Java), Django (Python)
+ 📦 **Metodologías Ágiles**: Scrum
 
 ### 🚀 Proyecto Actual
+
 Estoy desarrollando un **Sistema de Información Empresarial** con **Python/Django** para "La Super Bodega del Mueble", automatizando procesos de inventario, producción, ventas y trazabilidad de pedidos, de está manera que pueda permitir el análisis de datos para la toma de decisiones.
 
 
@@ -54,9 +55,9 @@ Estoy desarrollando un **Sistema de Información Empresarial** con **Python/Djan
 
 ## 🏆 Logros y Certificaciones
 
-- **Curso de Aplicación del Marco de Trabajo Scrum** - SENA (2025)
-- Enfoque en desarrollo de soluciones empresariales reales
-- Aprendizaje continuo y orientado a proyectos prácticos
+ **Curso de Aplicación del Marco de Trabajo Scrum** - SENA (2025)
+ Enfoque en desarrollo de soluciones empresariales reales
+ Aprendizaje continuo y orientado a proyectos prácticos
 
 ---
 
@@ -73,7 +74,7 @@ Estoy desarrollando un **Sistema de Información Empresarial** con **Python/Djan
 
 ## 💬 Frase
 
-> *"Me gusta aprender creando proyectos reales y construir soluciones claras, funcionales y bien estructuradas."*
+> *"Desarrollo soluciones de software que priorizan mantenibilidad, eficiencia y impacto real en los procesos empresariales."*
 
 ---
 
