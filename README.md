@@ -7,12 +7,11 @@
 ## 📍 Bogotá D.C., Colombia
 
 ### Sobre mí
+</div>
 
 Desarrollador de software en formación con enfoque en **desarrollo backend y frontend**. Apasionado por crear soluciones tecnológicas que resuelvan problemas reales.
 
 Actualmente me encuentro en proceso de formación en el **SENA**, donde estoy desarrollando competencias en:
-
-</div>
 
  - 🔧 **Lenguajes de Programación**: Java, Python, PHP y JavaScript
  - 🌐 **Desarrollo Web**: Backend y Frontend (aplicaciones full stack)
@@ -56,9 +55,9 @@ Estoy desarrollando un **Sistema de Información Empresarial** con **Python/Djan
 
 ## 🏆 Logros y Certificaciones
 
- **Curso de Aplicación del Marco de Trabajo Scrum** - SENA (2025)
- Enfoque en desarrollo de soluciones empresariales reales
- Aprendizaje continuo y orientado a proyectos prácticos
+- **Curso de Aplicación del Marco de Trabajo Scrum** - SENA (2025)
+- Enfoque en desarrollo de soluciones empresariales reales.
+- Aprendizaje continuo y orientado a proyectos prácticos.
 
 ---
 
