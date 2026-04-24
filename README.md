@@ -1,3 +1,5 @@
+<div align="center">
+
 # 👋 Hola, soy Gonzalo Niño Galindo
 
 ### 🎓 Estudiante de Tecnología en Análisis y Desarrollo de Software | SENA - Centro de Servicios Financieros
@@ -9,6 +11,10 @@
 Desarrollador de software en formación con enfoque en **desarrollo backend y frontend**. Apasionado por crear soluciones tecnológicas que resuelvan problemas reales.
 
 Actualmente me encuentro en proceso de formación en el **SENA**, donde estoy desarrollando competencias en:
+
+</div>
+
+<div align="center">
 
 - 🔧 **Lenguajes de Programación**: Java, Python, PHP y JavaScript
 - 🌐 **Desarrollo Web**: Backend y Frontend (aplicaciones full stack)
@@ -56,14 +62,12 @@ Estoy desarrollando un **Sistema de Información Empresarial** con **Python/Djan
 
 ## 📫 Conecta conmigo
 
-<div align="center">
   <a href="https://linkedin.com/in/gonzalo-n-galindo/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:g.n.galindo@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-</div>
 
 ---
 
@@ -72,8 +76,6 @@ Estoy desarrollando un **Sistema de Información Empresarial** con **Python/Djan
 > *"Me gusta aprender creando proyectos reales y construir soluciones claras, funcionales y bien estructuradas."*
 
 ---
-
-<div align="center">
 
 **¡Gracias por visitar mi perfil!** 
 
