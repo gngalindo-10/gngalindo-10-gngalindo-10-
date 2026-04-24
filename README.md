@@ -14,13 +14,13 @@ Actualmente me encuentro en proceso de formación en el **SENA**, donde estoy de
 
 </div>
 
-<div align="center">
+ - 🔧 **Lenguajes de Programación**: Java, Python, PHP y JavaScript
+ - 🌐 **Desarrollo Web**: Backend y Frontend (aplicaciones full stack)
+ - 💾 **Bases de Datos**: MySQL (relacionales) y NoSQL (no relacionales)
+ - 🛠️ **Frameworks**: Laravel (PHP), Spring Boot (Java), Django (Python)
+ - 📦 **Metodologías Ágiles**: Scrum
 
- 🔧 **Lenguajes de Programación**: Java, Python, PHP y JavaScript
- 🌐 **Desarrollo Web**: Backend y Frontend (aplicaciones full stack)
- 💾 **Bases de Datos**: MySQL (relacionales) y NoSQL (no relacionales)
- 🛠️ **Frameworks**: Laravel (PHP), Spring Boot (Java), Django (Python)
- 📦 **Metodologías Ágiles**: Scrum
+<div align="center">
 
 ### 🚀 Proyecto Actual
 
@@ -51,6 +51,7 @@ Estoy desarrollando un **Sistema de Información Empresarial** con **Python/Djan
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+</div>
 ---
 
 ## 🏆 Logros y Certificaciones
@@ -60,6 +61,8 @@ Estoy desarrollando un **Sistema de Información Empresarial** con **Python/Djan
  Aprendizaje continuo y orientado a proyectos prácticos
 
 ---
+
+<div align="center">
 
 ## 📫 Conecta conmigo
 
