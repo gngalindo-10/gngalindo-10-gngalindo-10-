@@ -6,7 +6,8 @@
 
 ## 📍 Bogotá D.C., Colombia
 
-### Sobre mí
+### 🙋🏽‍♂️ Sobre mí
+
 </div>
 
 Desarrollador de software en formación con enfoque en **desarrollo backend y frontend**. Apasionado por crear soluciones tecnológicas que resuelvan problemas reales.
@@ -51,6 +52,7 @@ Estoy desarrollando un **Sistema de Información Empresarial** con **Python/Djan
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
+
 ---
 
 ## 🏆 Logros y Certificaciones
