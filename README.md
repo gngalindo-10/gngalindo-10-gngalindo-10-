@@ -1,6 +1,6 @@
 # 👋 Hola, soy Gonzalo Niño Galindo
 
-### 🎓 Estudiante de Tecnología en Análisis y Desarrollo de Software | SENA - Centro de Servicios Financieros | MySQL • Git • Scrum | Bogotá
+### 🎓 Estudiante de Tecnología en Análisis y Desarrollo de Software | SENA - Centro de Servicios Financieros
 
 ## 📍 Bogotá D.C., Colombia
 
@@ -55,17 +55,11 @@ Estoy desarrollando un **Sistema de Información Empresarial** con **Python/Djan
 
 ---
 
-## 📈 Actividad
-
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=gngalindo-10&theme=github-compact&hide_border=true)
-
----
-
 ## 🏆 Logros y Certificaciones
 
-- ✅ **Curso de Aplicación del Marco de Trabajo Scrum** - SENA (2024)
-- 🎯 Enfoque en desarrollo de soluciones empresariales reales
-- 💡 Aprendizaje continuo y orientado a proyectos prácticos
+- **Curso de Aplicación del Marco de Trabajo Scrum** - SENA (2025)
+- Enfoque en desarrollo de soluciones empresariales reales
+- Aprendizaje continuo y orientado a proyectos prácticos
 
 ---
 
@@ -90,7 +84,7 @@ Estoy desarrollando un **Sistema de Información Empresarial** con **Python/Djan
 
 <div align="center">
 
-**Gracias por visitar mi perfil** — ¡Prometo más commits que bugs!
+**¡Gracias por visitar mi perfil!** 
 
 ![Visitor Count](https://profile-counter.glitch.me/gngalindo-10/count.svg)
 
