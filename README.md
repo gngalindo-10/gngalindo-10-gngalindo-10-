@@ -56,7 +56,7 @@ Estoy desarrollando un **Sistema de Información Empresarial** con **Python/Djan
 ---
 
 ## 🏆 Logros y Certificaciones
-# **Curso de Aplicación del Marco de Trabajo Scrum - SENA (2025)**
+### **Curso de Aplicación del Marco de Trabajo Scrum - SENA (2025)**
 
 - Enfoque en desarrollo de soluciones empresariales reales.
 - Aprendizaje continuo y orientado a proyectos prácticos.
